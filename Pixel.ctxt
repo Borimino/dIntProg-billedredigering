@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=value
+comment0.target=Pixel(int)
+comment0.text=\n\ The\ constructor\ of\ a\ new\ pixel\n\ \n\ @param\ value\ The\ initial\ value\ of\ the\ pixel\n
+comment1.params=value
+comment1.target=void\ setValue(int)
+comment1.text=\n\ Sets\ the\ current\ value\ of\ the\ pixel\ to\ the\ value\ given.\n\ If\ the\ parameter\ is\ below\ zero\ or\ exceeds\ 255,\ it\ is\ set\n\ to\ zero\ or\ 255\ acordingly.\n\ \n\ @param\ value\ The\ new\ value\ of\ the\ pixel\n
+comment2.params=
+comment2.target=int\ getValue()
+comment2.text=\n\ Returns\ the\ value\ in\ the\ pixel\n\ \n\ @return\ The\ value\ in\ the\ pixel\n
+numComments=3
